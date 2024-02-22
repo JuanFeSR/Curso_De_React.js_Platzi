@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Curso_De_React.js_Platzi/static/css/main.2051d994.css",
+    "main.js": "/Curso_De_React.js_Platzi/static/js/main.b8368911.js",
+    "index.html": "/Curso_De_React.js_Platzi/index.html",
+    "static/media/delete.svg": "/Curso_De_React.js_Platzi/static/media/delete.b498e44ee5d18b03d9fede5e9b4992e7.svg",
+    "static/media/check.svg": "/Curso_De_React.js_Platzi/static/media/check.c09416d13e49ccb299c8717289724453.svg",
+    "main.2051d994.css.map": "/Curso_De_React.js_Platzi/static/css/main.2051d994.css.map",
+    "main.b8368911.js.map": "/Curso_De_React.js_Platzi/static/js/main.b8368911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2051d994.css",
+    "static/js/main.b8368911.js"
+  ]
+}
